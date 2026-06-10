@@ -1,12 +1,12 @@
 # Jordy Macías
 
-**Software Developer** · JavaScript · TypeScript · Python
+**Estudiante de Ingeniería en Software & Desarrollador de Software** · JavaScript · TypeScript · Python
 
 ---
 
-I'm a software developer focused on building reliable, scalable applications. I work across the full stack with a strong foundation in JavaScript ecosystems and Python backend development.
+Soy un estudiante de desarrollo de software enfocado en construir aplicaciones confiables y escalables.
 
-Currently **open to new opportunities** — feel free to reach out.
+Actualmente **abierto a nuevas oportunidades laborales o pasantías**
 
 ---
 
@@ -26,19 +26,19 @@ Currently **open to new opportunities** — feel free to reach out.
 
 ---
 
-## 📌 What I'm working on
+## 📌 En lo que estoy trabajando
 
-- Building projects that solve real problems
-- Strengthening my skills in TypeScript and backend architecture
-- Contributing to open source
+- Desarrollando proyectos que resuelven problemas del mundo real.
+- Fortaleciendo mis habilidades en TypeScript y arquitectura backend.
+- Contribuyendo al código abierto (Open Source).
 
 ---
 
-## 📫 Contact
+## 📫 Contacto
 
-Have a project in mind or want to connect?
+¿Tienes un proyecto en mente o quieres conectar?
 
-**Email:** `jordymacias2003@gmail.com`
+**Correo electrónico:** `jordymacias2003@gmail.com`
 
 ---
 
