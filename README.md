@@ -38,7 +38,7 @@ Currently **open to new opportunities** — feel free to reach out.
 
 Have a project in mind or want to connect?
 
-**Email:** `your.email@example.com`
+**Email:** `jordymacias2003@gmail.com`
 
 ---
 
