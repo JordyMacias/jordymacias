@@ -1,26 +1,52 @@
-Jordy Macías
-Desarrollador de software · JavaScript · TypeScript · Python
+# Jordy Macías
 
-Soy desarrollador de software especializado en la creación de aplicaciones fiables y escalables. Trabajo en todo el stack tecnológico, con una sólida base en el ecosistema de JavaScript y el desarrollo backend en Python.
-Actualmente estoy abierto a nuevas oportunidades ; no dudes en ponerte en contacto conmigo.
+**Software Developer** · JavaScript · TypeScript · Python
 
-🛠 Pila tecnológica
-Idiomas
-JavaScript TypeScript Python
-Interfaz
-React HTML/CSS
-Backend y tiempo de ejecución
-Node.js
-Herramientas y flujo de trabajo
-Git REST APIs npm
+---
 
-📌 En qué estoy trabajando
+I'm a software developer focused on building reliable, scalable applications. I work across the full stack with a strong foundation in JavaScript ecosystems and Python backend development.
 
-Construir proyectos que resuelvan problemas reales.
-Fortalecer mis habilidades en TypeScript y arquitectura de backend.
-Contribuir al código abierto
+Currently **open to new opportunities** — feel free to reach out.
 
+---
 
-📫 Contacto
-¿Tienes algún proyecto en mente o quieres ponerte en contacto?
+## 🛠 Tech Stack
+
+**Languages**
+`JavaScript` `TypeScript` `Python`
+
+**Frontend**
+`React` `HTML/CSS`
+
+**Backend & Runtime**
+`Node.js`
+
+**Tools & Workflow**
+`Git` `REST APIs` `npm`
+
+---
+
+## 📌 What I'm working on
+
+- Building projects that solve real problems
+- Strengthening my skills in TypeScript and backend architecture
+- Contributing to open source
+
+---
+
+## 📫 Contact
+
+Have a project in mind or want to connect?
+
+**Email:** `your.email@example.com`
+
+---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+</p>en contacto?
 Correo electrónico: jordymacias2003@gmail.com
