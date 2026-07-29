@@ -1,50 +1,157 @@
-# Jordy Macías
+<div align="center">
 
-**Estudiante de Ingeniería en Software & Desarrollador de Software** · JavaScript · TypeScript · Python
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:2563eb,100:7c3aed&text=JORDY%20MACÍAS&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Backend%20Developer&descAlignY=58"/>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Construyendo+software+con+propósito.;Backend+Developer+en+formación.;TypeScript+%7C+Node.js+%7C+React.;Siempre+aprendiendo%2C+siempre+mejorando."/>
+</p>
 
-Soy un estudiante de desarrollo de software enfocado en construir aplicaciones confiables y escalables.
+<p align="center">
+<a href="mailto:jordymacias2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Actualmente **abierto a nuevas oportunidades laborales o pasantías**
+<img src="https://komarev.com/ghpvc/?username=JordyMacias&style=for-the-badge&color=2563EB"/>
+</p>
 
----
-
-## 🛠 Tech Stack
-
-**Languages**
-`JavaScript` `TypeScript` `Python`
-
-**Frontend**
-`React` `HTML/CSS`
-
-**Backend & Runtime**
-`Node.js`
-
-**Tools & Workflow**
-`Git` `REST APIs` `npm`
+</div>
 
 ---
 
-## 📌 En lo que estoy trabajando
+# ⚡ `whoami`
 
-- Desarrollando proyectos que resuelven problemas del mundo real.
-- Fortaleciendo mis habilidades en TypeScript y arquitectura backend.
-- Contribuyendo al código abierto (Open Source).
+```bash
+> Inicializando perfil...
+
+Nombre............. Jordy Macías
+Ubicación.......... Ecuador 🇪🇨
+Rol................ Estudiante de Ingeniería en Software
+Especialización.... Desarrollo Backend
+Estado............. Disponible para prácticas profesionales
+
+Sistema............ ONLINE ✔
+```
 
 ---
 
-## 📫 Contacto
+# 💻 Sobre mí
 
-¿Tienes un proyecto en mente o quieres conectar?
+No veo el desarrollo de software únicamente como escribir código.
 
-**Correo electrónico:** `jordymacias2003@gmail.com`
+Me interesa comprender cómo funcionan los sistemas, diseñar soluciones escalables y desarrollar aplicaciones que sean fáciles de mantener y evolucionar.
+
+Cada proyecto que publico representa un nuevo aprendizaje, un reto superado o una tecnología que decidí dominar.
 
 ---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+# 🚀 Stack Tecnológico
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,html,css,mysql,git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JordyMacias&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyMacias&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JordyMacias&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Actualmente
+
+```text
+✓ Desarrollando proyectos para mi portafolio.
+
+✓ Mejorando mis habilidades en TypeScript.
+
+✓ Aprendiendo arquitectura de software.
+
+✓ Construyendo APIs REST con Node.js.
+
+✓ Explorando buenas prácticas de desarrollo.
+```
+
+---
+
+# 📂 Proyectos Destacados
+
+### 🍽 Sistema de Gestión para Restaurantes
+
+Aplicación desarrollada para administrar pedidos, productos, clientes e inventario.
+
+---
+
+### 🌐 Aplicaciones Web
+
+Desarrollo de interfaces modernas utilizando React y consumo de APIs.
+
+---
+
+### ⚙ APIs REST
+
+Implementación de servicios backend utilizando Node.js y Express.
+
+---
+
+# 📈 Filosofía
+
+```text
+"Un buen software no impresiona por su complejidad.
+Impresiona porque resuelve problemas de forma simple,
+escalable y mantenible."
+```
+
+---
+
+# ⚡ Estado Actual
+
+```text
+Backend Development      ███████████░░ 85%
+
+Frontend Development     ████████░░░░ 70%
+
+Bases de Datos           █████████░░░ 75%
+
+Arquitectura Software    ███████░░░░░ 65%
+
+Aprendizaje              █████████████ 100%
+```
+
+---
+
+# 🌎 Conectemos
+
+<p align="center">
+
+<a href="mailto:jordymacias2003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Gracias por visitar mi perfil.
+
+*"Siempre hay una mejor forma de construir software."*
+
+</div>
