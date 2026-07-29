@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:2563eb,100:7c3aed&text=JORDY%20MACÍAS&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Backend%20Developer&descAlignY=58"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Construyendo+software+con+propósito.;Backend+Developer+en+formación.;TypeScript+%7C+Node.js+%7C+React.;Siempre+aprendiendo%2C+siempre+mejorando."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Construyendo+software...;Backend+Developer;TypeScript+-+Node.js+-+React;Siempre+aprendiendo."/>
 </p>
 
 <p align="center">
@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=JordyMacias&style=for-the-badge&color=2563EB"/>
 </p>
 
 </div>
@@ -55,16 +54,6 @@ Cada proyecto que publico representa un nuevo aprendizaje, un reto superado o un
 ---
 
 # 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JordyMacias&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyMacias&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 <div align="center">
 
