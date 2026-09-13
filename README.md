@@ -107,23 +107,6 @@ Impresiona porque resuelve problemas de forma simple,
 escalable y mantenible."
 ```
 
----
-
-# ⚡ Estado Actual
-
-```text
-Backend Development      ███████████░░ 85%
-
-Frontend Development     ████████░░░░ 70%
-
-Bases de Datos           █████████░░░ 75%
-
-Arquitectura Software    ███████░░░░░ 65%
-
-Aprendizaje              █████████████ 100%
-```
-
----
 
 # 🌎 Conectemos
 
