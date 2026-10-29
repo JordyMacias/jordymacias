@@ -43,16 +43,6 @@ Cada proyecto que publico representa un nuevo aprendizaje, un reto superado o un
 
 ---
 
-# 🚀 Stack Tecnológico
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,html,css,mysql,git,github,vscode,postman"/>
-
-</p>
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
